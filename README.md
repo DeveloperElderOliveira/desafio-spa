@@ -1,5 +1,16 @@
 # desafio_spa
 
+## Node Version
+v16.14.0 +
+## Vue
+^2.6.14
+
+## login default
+bycoders
+## password
+desafiobycoders
+
+
 ## Project setup
 ```
 npm install
